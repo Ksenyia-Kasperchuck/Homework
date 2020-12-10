@@ -1,6 +1,11 @@
-public class Main{
+package book;
+
+import book.genre.Adventure;
+
+public class Main {
 
     public static void main(String[] args) {
-        Book b =new Book();
+        Author danielDefo = new Author("Даниель", "Дефо");
+        Book robinsonCrusoe = new Adventure("Robinson Crusoe", danielDefo);
     }
 }

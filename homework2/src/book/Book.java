@@ -1,16 +1,18 @@
+package book;
+
 public class Book {
 
     private String title;
     private Author author;
     private String genre;
 
-    Book(String book_title, Author book_author, String book_genre) {
+    public Book(String book_title, Author book_author, String book_genre) {
         title = book_title;
         author = book_author;
         genre = book_genre;
     }
 
-    Book() {
+    public Book() {
 
     }
 
@@ -37,7 +39,5 @@ public class Book {
     public void setGenre(String genre) {
         this.genre = genre;
     }
-
-
 }
 
