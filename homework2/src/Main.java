@@ -1,5 +1,5 @@
-package book;
-
+import book.Author;
+import book.Book;
 import book.genre.Adventure;
 
 public class Main {
