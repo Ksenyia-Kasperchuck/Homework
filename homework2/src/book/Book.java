@@ -1,10 +1,12 @@
 package book;
 
-public class Book {
+import book.Author;
 
-    private String title;
-    private Author author;
-    private String genre;
+public abstract class Book implements Downloadable {
+
+    public String title;
+    public Author author;
+    public String genre = null;
 
     public Book(String book_title, Author book_author, String book_genre) {
         title = book_title;
@@ -43,5 +45,10 @@ public class Book {
     public void print(){
         System.out.println("Author: "+author.getFullName());
     }
+
+    public void download(){
+        System.out.println("Book downloaded");
+    }
 }
+
 
