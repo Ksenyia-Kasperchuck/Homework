@@ -1,12 +1,13 @@
 package book;
 
-import book.Author;
+import java.util.Scanner;
 
 public abstract class Book implements Downloadable {
 
     public String title;
     public Author author;
     public String genre = null;
+    public int price=25 ;
 
     public Book(String book_title, Author book_author, String book_genre) {
         title = book_title;
@@ -42,13 +43,23 @@ public abstract class Book implements Downloadable {
         this.genre = genre;
     }
 
-    public void print(){
-        System.out.println("Author: "+author.getFullName());
+    public void print() {
+        System.out.println("Author: " + author.getFullName());
     }
 
-    public void download(){
+    public void download() {
         System.out.println("Book downloaded");
     }
+
+    public void buy(int price) {
+        System.out.println("The price of this book is " + price + "$");
+    }
+
+    public void buy() {
+        System.out.println("The price f this book is " + price + "$");
+
+    }
 }
+
 
 

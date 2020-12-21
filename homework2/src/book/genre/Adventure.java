@@ -12,4 +12,9 @@ public class Adventure extends Book {
     public void download() {
         System.out.println("Downloads of this genre are restricted ");
     }
+
+    public void buy(int price){
+        System.out.println("The price of this book is "+ (price+5)+"$");
+    }
 }
+
