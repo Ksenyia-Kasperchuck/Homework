@@ -1,11 +1,11 @@
 package book;
 
-import java.util.Scanner;
+import book.exeptions.DownloadException;
+
 
 public interface Downloadable {
 
-    public void download();
-
+    public void download() throws DownloadException;
 
 }
 

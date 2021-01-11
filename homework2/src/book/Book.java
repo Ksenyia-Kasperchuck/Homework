@@ -1,5 +1,7 @@
 package book;
 
+import book.exeptions.DownloadException;
+
 import java.util.Scanner;
 
 public abstract class Book implements Downloadable {
@@ -47,7 +49,7 @@ public abstract class Book implements Downloadable {
         System.out.println("Author: " + author.getFullName());
     }
 
-    public void download() {
+    public void download() throws DownloadException {
         System.out.println("Book downloaded");
     }
 
