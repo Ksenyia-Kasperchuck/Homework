@@ -20,9 +20,6 @@ public class Adventure_Author {
             System.out.println(name);
         }
 
-
-
-
         List<String>list_2_AdventureAuthor=new LinkedList<>();
 
         for(int i=0;i<3;i++) {
