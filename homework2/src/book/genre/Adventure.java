@@ -11,7 +11,7 @@ public class Adventure extends Book {
 
     @Override
     public void download() throws DownloadException {
-        // System.out.println("Downloads of this genre are restricted ");
+        System.out.println("Downloads of this genre are restricted ");
         throw new DownloadException();
     }
 
