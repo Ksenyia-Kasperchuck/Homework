@@ -1,4 +1,4 @@
-package book.exeptions;
+package main.java.ksenia.app.book.exeptions;
 
 public class DownloadException extends Exception{
     public DownloadException(){

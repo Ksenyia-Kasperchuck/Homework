@@ -1,4 +1,4 @@
-package book.genre;
+package main.java.ksenia.app.book.genre;
 import java.util.Scanner;
 
 public class Author_Book {

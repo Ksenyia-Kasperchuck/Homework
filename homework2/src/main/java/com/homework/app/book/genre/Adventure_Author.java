@@ -1,7 +1,4 @@
-package book.genre;
-
-import book.Author;
-import book.Book;
+package main.java.ksenia.app.book.genre;
 
 import java.util.*;
 

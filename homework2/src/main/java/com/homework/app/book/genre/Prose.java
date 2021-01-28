@@ -1,7 +1,7 @@
-package book.genre;
+package main.java.ksenia.app.book.genre;
 
-import book.Author;
-import book.Book;
+import main.java.ksenia.app.book.Author;
+import main.java.ksenia.app.book.Book;
 
 public class Prose extends Book {
     public Prose (String book_title, Author book_author) {
