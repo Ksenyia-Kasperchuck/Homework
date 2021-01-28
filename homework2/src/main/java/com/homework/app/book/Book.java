@@ -1,6 +1,6 @@
-package main.java.ksenia.app.book;
+package main.java.com.homework.app.book;
 
-import main.java.ksenia.app.book.exeptions.DownloadException;
+import main.java.com.homework.app.book.exeptions.DownloadException;
 
 public abstract class Book implements Downloadable {
 
@@ -52,11 +52,11 @@ public abstract class Book implements Downloadable {
     }
 
     public void buy(int price) {
-        System.out.println("The price of this main.java.ksenia.app.book is " + price + "$");
+        System.out.println("The price of this main.java.com.homework.app.book is " + price + "$");
     }
 
     public void buy() {
-        System.out.println("The price f this main.java.ksenia.app.book is " + price + "$");
+        System.out.println("The price f this main.java.com.homework.app.book is " + price + "$");
 
     }
 }

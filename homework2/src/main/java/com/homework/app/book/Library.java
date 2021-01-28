@@ -1,6 +1,6 @@
-package main.java.ksenia.app.book;
+package main.java.com.homework.app.book;
 
-import main.java.ksenia.app.book.exeptions.DownloadException;
+import main.java.com.homework.app.book.exeptions.DownloadException;
 
 public class Library implements Downloadable {
 

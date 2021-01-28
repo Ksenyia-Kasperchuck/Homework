@@ -1,4 +1,4 @@
-package main.java.ksenia.app.book.genre;
+package main.java.com.homework.app.book.genre;
 
 import java.util.*;
 

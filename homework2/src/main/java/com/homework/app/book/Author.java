@@ -1,4 +1,4 @@
-package main.java.ksenia.app.book;
+package main.java.com.homework.app.book;
 
 public class Author {
     private String firstName;
