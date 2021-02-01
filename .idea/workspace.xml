@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e2f605d-8374-45ae-ae92-cf9d609135cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Author_Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/Executor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/Downloadable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/Downloadable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/booksReview/review_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/booksReview/review_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/exeptions/DownloadException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/exeptions/DownloadException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Adventure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Adventure_Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Adventure_Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Author_Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Autobiography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Autobiography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Detective.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Detective.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/FairyTales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/FairyTales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Fantasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Fantasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Horror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Horror.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Legends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Legends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Prose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Prose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/Romance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/Romance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/genre/SinceFiction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/genre/SinceFiction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/utils/ReadingFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/utils/ReadingFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2/src/main/java/com/homework/app/book/utils/WrittingToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/homework/app/book/utils/WrittingToFile.java" afterDir="false" />
+    </list>
+    <list id="504d1590-c784-4383-a39a-b3374f6ee0a3" name="Revert &quot;2 homework&quot;" comment="Revert &quot;2 homework&quot;&#10;&#10;This reverts commit 1feb86d9" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="ProjectId" id="1lTch40fK1xdLkcbJlA11B2KZKw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/homework2/src/genre" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="book" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\HomeWork\src\main" />
+      <recent name="C:\Users\User\IdeaProjects\HomeWork\homework2\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\HomeWork" />
+      <recent name="C:\Users\User\IdeaProjects\HomeWork\homework2\src\book" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.homework.app.book.utils" />
+      <recent name="main" />
+      <recent name="main.java.com.homework.app" />
+      <recent name="main.java.ksenia.app" />
+      <recent name="main.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Executor">
+    <configuration name="Adventure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.app.book.genre.Adventure" />
+      <module name="homework2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.homework.app.book.genre.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.BooksFormat" />
+      <module name="homework2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.homework.app.book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Executor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.app.Executor" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean compile" />
+      </method>
+    </configuration>
+    <configuration name="ReadingFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.app.book.utils.ReadingFromFile" />
+      <module name="homework2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.homework.app.book.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrittingToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.homework.app.book.utils.WrittingToFile" />
+      <module name="homework2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.homework.app.book.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Executor" />
+        <item itemvalue="Application.ReadingFromFile" />
+        <item itemvalue="Application.WrittingToFile" />
+        <item itemvalue="Application.BooksFormat" />
+        <item itemvalue="Application.Adventure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e2f605d-8374-45ae-ae92-cf9d609135cd" name="Default Changelist" comment="" />
+      <created>1607624642689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607624642689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/homework/app/Executor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/homework/app/Executor.java</url>
+          <line>12</line>
+          <properties class="com.homework.app.Executor" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
